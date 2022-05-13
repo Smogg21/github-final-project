@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <Smogg21 (Salvatore Pazzaglia)>
+   # <Smogg21>
 
    # Input:
    # p, principal amount
